@@ -6,7 +6,7 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 interface ApiService {
-    @GET("signals/latest")
+    @GET("signals/advanced")
     suspend fun getSignals(@Query("limit") limit: Int = 20): SignalResponse
 
     companion object {
