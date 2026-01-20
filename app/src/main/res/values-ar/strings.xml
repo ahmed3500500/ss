@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">توصيات العملات</string>
+    <string name="title_latest_signals">آخر التوصيات</string>
+    <string name="loading">جاري تحميل التوصيات...</string>
+    <string name="error_loading">خطأ في التحميل. اسحب للتحديث.</string>
+    <string name="score_label">النقاط: %1$s</string>
+    <string name="buy">شراء</string>
+    <string name="sell">بيع</string>
+    <string name="wait">انتظار</string>
+    <string name="notification_channel_name">تنبيهات التوصيات</string>
+    <string name="notification_channel_description">إشعارات للفرص القوية</string>
+    
+    <string name="disclaimer_title">إخلاء مسؤولية</string>
+    <string name="disclaimer_text">تنبيه هام: هذه الإشارات تعتمد على التحليل الفني وهي للأغراض التعليمية فقط. نحن لا نقدم نصائح مالية ولا نتحمل مسؤولية أي قرارات استثمارية تتخذها بناءً على هذه البيانات. سوق العملات الرقمية عالي المخاطر.</string>
+    <string name="notification_disclaimer">تنبيه: ليست نصيحة مالية.</string>
+</resources>

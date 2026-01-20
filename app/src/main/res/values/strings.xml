@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Crypto Signals</string>
+    <string name="title_latest_signals">Latest Signals</string>
+    <string name="loading">Loading signals...</string>
+    <string name="error_loading">Error loading data. Swipe to retry.</string>
+    <string name="score_label">Score: %1$s</string>
+    <string name="buy">BUY</string>
+    <string name="sell">SELL</string>
+    <string name="wait">WAIT</string>
+    <string name="notification_channel_name">Signal Alerts</string>
+    <string name="notification_channel_description">Notifications for new high-score signals</string>
+    
+    <string name="disclaimer_title">Disclaimer</string>
+    <string name="disclaimer_text">Important: These signals are based on technical analysis and are for educational purposes only. We do not provide financial advice and accept no liability for any investment decisions. Crypto trading is high risk.</string>
+    <string name="notification_disclaimer">Note: Not financial advice.</string>
+</resources>
